@@ -1,8 +1,6 @@
 name: 'Repo Lockdown'
 
 on:
-  issues:
-    types: opened
   pull_request_target:
     types: opened
 
@@ -18,3 +16,5 @@ jobs:
         with:
           pr-comment: >
             This repository does not accept pull requests.
+          lock-pr: true
+          close-pr: true
