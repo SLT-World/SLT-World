@@ -1,4 +1,5 @@
-Hello, Schuyler Tan here, I'm a student that does 3D Modeling, creates Unity video games, WPF & MAUI applications as a hobby.
+# Schuyler Tan (SLT World)
+A developer that creates applications, websites and games.
 
 [![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=dotnet&logoColor=239120&label=&labelColor=black)](https://github.com/SLT-World/)
 [![WPF](https://img.shields.io/static/v1?style=for-the-badge&message=WPF&color=0C54C2&logo=XML&logoColor=0C54C2&label=&labelColor=black)](https://github.com/SLT-World/)
@@ -12,36 +13,24 @@ Hello, Schuyler Tan here, I'm a student that does 3D Modeling, creates Unity vid
 [![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FA5C5C&label=&labelColor=black)](https://sltworld.itch.io)
 [![Discord Server](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=5865F2&label=&labelColor=black)](https://discord.gg/fNmFUjmcNn)
 
-## Newest Application
-[PQ - Currency Converter](https://play.google.com/store/apps/details?id=com.sltsoftwares.pq)
-
-## Big Projects
-| Active                                                   | Other Notables                                                         |
-| -------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [SLT Combat](https://sltworld.itch.io/slt-combat) (Vehicle Combat Game, similar to War Thunder) | [SLChat](https://slchat.alwaysdata.net/) [Chat Platform] |
-| [![SLBr](https://github-readme-stats.vercel.app/api/pin/?username=SLT-World&repo=SLBr&theme=transparent)](https://github.com/SLT-World/SLBr)  | [SLSearch](https://slsearch.eu.org/) [Search Engine]          |
-
-## GitHub Stats
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=SLT-World&show_icons=true&theme=transparent" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLT-World&theme=transparent&langs_count=8&layout=compact" /></div>
-</div>
-
 ## Notable Projects
-- SLBr [Web Browser]
-- SLT Combat [Vehicle Combat Video Game]
-- SLChat [Chat Platform]
-- SLSearch [Search Engine]
-- AutoSolve [Mobile Application, 20/9/2025]
-- PQ [Mobile Currency Converter, 27/10/2024]
-- Power Station Inc [Video Game, 2/2/2025]
-- Moon Hop [Mini Video Game]
-- Build & Upgrade 2 [Video Game, 6/2/2023]
-- Build & Upgrade [Video Game]
-- SLT Ace Combat [Video Game]
-- SLT Planetarium [Video Game]
-- SLT Ace [Video Game]
-- Discord Store Recreation [Desktop Application]
-- Others [Python applications (Discord bots, Websites), Unity games, WPF & MAUI applications]
+- **[SLBr](https://github.com/SLT-World/SLBr)** - Web Browser (WPF, CefSharp, WebView2)
+- **[SLChat](https://slchat.alwaysdata.net/)** - Chat Platform (FastAPI, Socket.IO)
+- **[SLSearch](https://slsearch.eu.org/)** - Search Engine (Flask)
+- **SLT Combat** - Vehicle Combat Game (Unity)
+
+> *Very unique names, I know right?*
+
+## Additional Projects
+- **AutoSolve** - Mobile Application (20/9/2025)
+- **[PQ](https://play.google.com/store/apps/details?id=com.sltsoftwares.pq)** - Currency Converter (27/10/2024)
+- **[Power Station Inc](https://play.google.com/store/apps/details?id=com.SLTSoftwares.PowerStationInc)** - Video Game (2/2/2025)
+- **[Moon Hop](https://play.google.com/store/apps/details?id=com.SLTSoftwares.MoonHop)** - Video Game
+- **[Build & Upgrade 2](https://sltworld.itch.io/build-upgrade-2)** - Video Game (6/2/2023)
+- **[Build & Upgrade](https://sltworld.itch.io/build-upgrade)** - Video Game
+- **[SLT Ace Combat](https://sltworld.itch.io/slt-ace-combat)** - Video Game
+- **[SLT Planetarium](https://sltworld.itch.io/slt-planetarium)** - Video Game
+- **[SLT Ace](https://sltworld.itch.io/slt-ace)** - Video Game
+- **[Discord Store Recreation](https://github.com/SLT-World/Discord-Store-Recreation-Project)** - Desktop Application
+- **Skylight Browser** - Web Browser (Precursor to SLBr)
+- **And more:** Python apps, Discord bots, Unity games, WPF & MAUI applications
