@@ -2,6 +2,8 @@
 A developer that creates applications, websites and games.
 
 ## Links
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Website&color=202225&logo=Github&label=&labelColor=black)](https://slt-world.github.io/)
+<br>
 [![Google Play Store](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play+Store&color=4285F4&logo=GooglePlay&logoColor=4285F4&label=&labelColor=black)](https://play.google.com/store/apps/developer?id=SLT+World)
 <br>
 [![YouTube Channel](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FF0000&label=&labelColor=black)](https://www.youtube.com/@SLT-World)
