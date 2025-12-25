@@ -1,5 +1,5 @@
 # Schuyler Tan (SLT World)
-A developer that creates applications, websites and games.
+An application, website, and game developer using WPF, MAUI, and Unity.
 
 ## Links
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Website&color=202225&logo=Github&label=&labelColor=black)](https://slt-world.github.io/)
