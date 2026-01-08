@@ -21,10 +21,11 @@ An application, website, and game developer using WPF, MAUI, and Unity.
 > *Very unique names, I know right?*
 
 ## Additional Projects
+- **[Recodite](https://github.com/SLT-World/Recodite)** - Desktop Media Compressor (6/1/2026)
 - **AutoSolve** - Mobile Application (20/9/2025)
 - **[PQ](https://play.google.com/store/apps/details?id=com.sltsoftwares.pq)** - Currency Converter (27/10/2024)
 - **[Power Station Inc](https://play.google.com/store/apps/details?id=com.SLTSoftwares.PowerStationInc)** - Video Game (2/2/2025)
-- **[slchat.py](https://github.com/SLT-World/slchat.py)** - SLChat python API wrapper (8/8/2023)
+- **[slchat.py](https://github.com/SLT-World/slchat.py)** - SLChat Python API Wrapper (8/8/2023)
 - **[Metafetcher](https://github.com/SLT-World/metafetcher)** - Link Preview API (1/12/2025)
 - **[Moon Hop](https://play.google.com/store/apps/details?id=com.SLTSoftwares.MoonHop)** - Video Game
 - **[Build & Upgrade 2](https://sltworld.itch.io/build-upgrade-2)** - Video Game (6/2/2023)
