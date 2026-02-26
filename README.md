@@ -11,6 +11,8 @@ An application, website, and game developer using WPF, MAUI, and Unity.
 [![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FA5C5C&label=&labelColor=black)](https://sltworld.itch.io)
 <br>
 [![Minecraft Datapacks](https://img.shields.io/static/v1?style=for-the-badge&message=Planet+Minecraft&color=6EC310&logo=Blockbench&logoColor=6EC310&label=&labelColor=black)](https://www.planetminecraft.com/member/slt_world/)
+<br>
+[![Microsoft Store](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Store&color=11A2F8&logo=GitForWindows&logoColor=11A2F8&label=&labelColor=black)](https://apps.microsoft.com/search/publisher?name=SLT%20Softwares)
 
 ## Notable Projects
 - **[SLBr](https://github.com/SLT-World/SLBr)** - Web Browser (WPF, CefSharp, WebView2)
@@ -21,7 +23,7 @@ An application, website, and game developer using WPF, MAUI, and Unity.
 > *Very unique names, I know right?*
 
 ## Additional Projects
-- **[Recodite](https://github.com/SLT-World/Recodite)** - Desktop Media Compressor (6/1/2026)
+- **[Recodite](https://apps.microsoft.com/detail/9n1m86937z91)** - Desktop Media Compressor (6/1/2026)
 - **AutoSolve** - Mobile Application (20/9/2025)
 - **[PQ](https://play.google.com/store/apps/details?id=com.sltsoftwares.pq)** - Currency Converter (27/10/2024)
 - **[Power Station Inc](https://play.google.com/store/apps/details?id=com.SLTSoftwares.PowerStationInc)** - Video Game (2/2/2025)
