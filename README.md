@@ -49,6 +49,7 @@ Application, web, and game developer.
 > - Creation: 2 Feb 2025
 
 ## Additional Projects
+- **Fluent GIF Picker** - GIF Picker (19/3/2026)
 - **SLT Combat** - Vehicle Combat Game (Unity)
 - **AutoSolve** - Work-in-progress Mobile Application (20/9/2025)
 - **[slchat.py](https://github.com/SLT-World/slchat.py)** - SLChat Python API Wrapper (8/8/2023)
