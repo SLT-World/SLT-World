@@ -8,6 +8,7 @@ Application, web, and game developer.
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=FFDE57&logo=python&logoColor=4584B6&label=&labelColor=black)](https://github.com/SLT-World/)
 [![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=dotnet&logoColor=239120&label=&labelColor=black)](https://github.com/SLT-World/)
 [![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=5C2D91&logo=dotnet&logoColor=5C2D91&label=&labelColor=black)](https://github.com/SLT-World/)
+[![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=go&logoColor=00ADD8&label=&labelColor=black)](https://github.com/SLT-World/)
 
 ## Links
 [![Google Play Store](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play+Store&color=4285F4&logo=GooglePlay&logoColor=4285F4&label=&labelColor=black)](https://play.google.com/store/apps/developer?id=SLT+World)
@@ -49,6 +50,7 @@ Application, web, and game developer.
 > - Creation: 2 Feb 2025
 
 ## Additional Projects
+- **Tixel** - Multiplayer Canvas (21/3/2026)
 - **Fluent GIF Picker** - GIF Picker (19/3/2026)
 - **SLT Combat** - Vehicle Combat Game (Unity)
 - **AutoSolve** - Work-in-progress Mobile Application (20/9/2025)
