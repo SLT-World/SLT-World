@@ -28,6 +28,19 @@ Application, web, and game developer.
 > ### [SLBr – Desktop Web Browser (WPF, CefSharp, WebView2)](https://github.com/SLT-World/SLBr)
 > A modern Windows desktop web browser.
 
+> [!NOTE]
+> ### [Fluent GIF Picker (WinUI)](https://apps.microsoft.com/detail/9N6Q7KZX4NGJ)
+> A GIF picker closely replicating the Windows 11 experience, with added flexibility and provider support.
+> - Creation: 19 Mar 2026
+
+> ### [PQ - Currency Converter (MAUI)](https://play.google.com/store/apps/details?id=com.sltsoftwares.pq)
+> A lightweight currency converter with clean UI and partial offline support.
+> - Creation: 27 Oct 2024
+
+> ### [Recodite – Desktop Media Compressor (MAUI)](https://apps.microsoft.com/detail/9n1m86937z91)
+> A desktop application for compressing media formats.
+> - Creation: 6 Jan 2026
+
 > ### [SLChat – Web Messaging Platform (FastAPI, Socket.IO)](https://slchat.alwaysdata.net/)
 > A real-time chat platform.
 > 
@@ -36,22 +49,12 @@ Application, web, and game developer.
 > ### [SLSearch – Search Engine (Flask)](https://slsearch.eu.org/)
 > A lightweight search engine with rich results and widgets.
 
-> [!NOTE]
-> ### [Recodite – Desktop Media Compressor (MAUI)](https://apps.microsoft.com/detail/9n1m86937z91)
-> A desktop application for compressing media formats.
-> - Creation: 6 Jan 2026
-
-> ### [PQ - Currency Converter (MAUI)](https://play.google.com/store/apps/details?id=com.sltsoftwares.pq)
-> A lightweight currency converter with clean UI and partial offline support.
-> - Creation: 27 Oct 2024
-
 > ### [Power Station Inc - Mobile Game (Unity)](https://play.google.com/store/apps/details?id=com.SLTSoftwares.PowerStationInc)
 > A simulation game focused on managing power generation and upgrades.
 > - Creation: 2 Feb 2025
 
 ## Additional Projects
 - **Tixel** - Multiplayer Canvas (21/3/2026)
-- **Fluent GIF Picker** - GIF Picker (19/3/2026)
 - **SLT Combat** - Vehicle Combat Game (Unity)
 - **AutoSolve** - Work-in-progress Mobile Application (20/9/2025)
 - **[slchat.py](https://github.com/SLT-World/slchat.py)** - SLChat Python API Wrapper (8/8/2023)
