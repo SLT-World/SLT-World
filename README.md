@@ -53,8 +53,12 @@ Application, web, and game developer.
 > A simulation game focused on managing power generation and upgrades.
 > - Creation: 2 Feb 2025
 
+> [!NOTE]
+> ### [Tixel - Multiplayer Canvas (Go)](http://sltworld.alwaysdata.net/)
+> A small, lightweight pixel canvas inspired by r/place.
+> - Creation: 21 Mar 2026
+
 ## Additional Projects
-- **Tixel** - Multiplayer Canvas (21/3/2026)
 - **SLT Combat** - Vehicle Combat Game (Unity)
 - **AutoSolve** - Work-in-progress Mobile Application (20/9/2025)
 - **[slchat.py](https://github.com/SLT-World/slchat.py)** - SLChat Python API Wrapper (8/8/2023)
