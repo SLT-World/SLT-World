@@ -31,14 +31,20 @@ Application, web, and game developer.
 > [!NOTE]
 > ### [Fluent GIF Picker (WinUI)](https://apps.microsoft.com/detail/9N6Q7KZX4NGJ)
 > A GIF picker closely replicating the Windows 11 experience, with added flexibility and provider support.
+> 
+> <a href="https://apps.microsoft.com/detail/9n6q7kzx4ngj"><img src="https://get.microsoft.com/images/en-us%20light.svg" alt="Download from Microsoft Store" width="200px"></a>
 > - Creation: 19 Mar 2026
 
 > ### [PQ - Currency Converter (MAUI)](https://play.google.com/store/apps/details?id=com.sltsoftwares.pq)
 > A lightweight currency converter with clean UI and partial offline support.
+> 
+> <a href="https://play.google.com/store/apps/details?id=com.sltsoftwares.pq"><img src="https://raw.githubusercontent.com/pioug/google-play-badges/refs/heads/main/svg/en.svg" alt="Download from Google Play" width="200px"></a>
 > - Creation: 27 Oct 2024
 
 > ### [Recodite – Desktop Media Compressor (MAUI)](https://apps.microsoft.com/detail/9n1m86937z91)
 > A desktop application for compressing media formats.
+> 
+> <a href="https://apps.microsoft.com/detail/9n1m86937z91"><img src="https://get.microsoft.com/images/en-us%20light.svg" alt="Download from Microsoft Store" width="200px"></a>
 > - Creation: 6 Jan 2026
 
 > ### [SLChat – Web Messaging Platform (FastAPI, Socket.IO)](https://slchat.alwaysdata.net/)
@@ -51,6 +57,8 @@ Application, web, and game developer.
 
 > ### [Power Station Inc - Mobile Game (Unity)](https://play.google.com/store/apps/details?id=com.SLTSoftwares.PowerStationInc)
 > A simulation game focused on managing power generation and upgrades.
+> 
+> <a href="https://play.google.com/store/apps/details?id=com.SLTSoftwares.PowerStationInc"><img src="https://raw.githubusercontent.com/pioug/google-play-badges/refs/heads/main/svg/en.svg" alt="Download from Google Play" width="200px"></a>
 > - Creation: 2 Feb 2025
 
 > [!NOTE]
