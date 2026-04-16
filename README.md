@@ -8,7 +8,7 @@ Application, web, and game developer.
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=FFDE57&logo=python&logoColor=4584B6&label=&labelColor=black)](https://github.com/SLT-World/)
 [![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=dotnet&logoColor=239120&label=&labelColor=black)](https://github.com/SLT-World/)
 [![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=5C2D91&logo=dotnet&logoColor=5C2D91&label=&labelColor=black)](https://github.com/SLT-World/)
-[![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=go&logoColor=00ADD8&label=&labelColor=black)](https://github.com/SLT-World/)
+[![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=go&logoColor=00ADD8&label=&labelColor=black)](https://github.com/SLT-World/)
 
 ## Links
 [![Google Play Store](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play+Store&color=4285F4&logo=GooglePlay&logoColor=4285F4&label=&labelColor=black)](https://play.google.com/store/apps/developer?id=SLT+World)
@@ -17,7 +17,7 @@ Application, web, and game developer.
 <br>
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Website&color=202225&logo=Github&label=&labelColor=black)](https://slt-world.github.io/)
 <br>
-[![YouTube Channel](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FF0000&label=&labelColor=black)](https://www.youtube.com/@SLT-World)
+[![YouTube](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FF0000&label=&labelColor=black)](https://www.youtube.com/@SLT-World)
 <br>
 [![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FA5C5C&label=&labelColor=black)](https://sltworld.itch.io)
 <br>
@@ -66,13 +66,14 @@ Application, web, and game developer.
 > A small, lightweight pixel canvas inspired by r/place.
 > - Creation: 21 Mar 2026
 
-## Additional Projects
+## [Additional Projects](https://slt-world.github.io/explore/)
 - **SLT Combat** - Vehicle Combat Game (Unity)
 - **AutoSolve** - Work-in-progress Mobile Application (20/9/2025)
 - **[slchat.py](https://github.com/SLT-World/slchat.py)** - SLChat Python API Wrapper (8/8/2023)
 - **[Metafetcher](https://github.com/SLT-World/metafetcher)** - Link Preview API (1/12/2025)
 - **[Moon Hop](https://play.google.com/store/apps/details?id=com.SLTSoftwares.MoonHop)** - Mobile Game
 - **[Build & Upgrade 2](https://sltworld.itch.io/build-upgrade-2)** - Game (6/2/2023)
+- **[GitHub Website](https://slt-world.github.io/)** - Website
 - **[Build & Upgrade](https://sltworld.itch.io/build-upgrade)** - Game
 - **[SLT Ace Combat](https://sltworld.itch.io/slt-ace-combat)** - Game
 - **[SLT Planetarium](https://sltworld.itch.io/slt-planetarium)** - Game
