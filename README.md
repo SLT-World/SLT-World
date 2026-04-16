@@ -78,5 +78,5 @@ Application, web, and game developer.
 - **[SLT Planetarium](https://sltworld.itch.io/slt-planetarium)** - Game
 - **[SLT Ace](https://sltworld.itch.io/slt-ace)** - Game
 - **[Discord Store Recreation](https://github.com/SLT-World/Discord-Store-Recreation-Project)** - Desktop Application
-- **Skylight** - Web Browser (Precursor to SLBr)
+- **[Skylight](https://www.youtube.com/watch?v=ufVNV1knHKw)** - Web Browser (Precursor to SLBr)
 - Additional desktop applications, Discord bots, Unity prototypes, and Python tools. 
