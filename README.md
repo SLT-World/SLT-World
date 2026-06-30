@@ -1,7 +1,7 @@
 # Schuyler Tan
 Developing applications, web platforms, and games since 2020.
 
-Sole developer and maintainer of SLBr, PQ, Fluent GIF Picker, and [other](https://slt-world.github.io/explore/) applications distributed on [Microsoft Store](https://apps.microsoft.com/search/publisher?name=SLT%20Softwares) and [Google Play](https://play.google.com/store/apps/developer?id=SLT+World).
+Sole developer and maintainer of SLBr, PQ Currency Converter, Fluent GIF Picker, and [other](https://slt-world.github.io/explore/) applications distributed on [Microsoft Store](https://apps.microsoft.com/search/publisher?name=SLT%20Softwares) and [Google Play](https://play.google.com/store/apps/developer?id=SLT+World).
 
 ## Featured Projects
 > [!IMPORTANT]
@@ -10,7 +10,13 @@ Sole developer and maintainer of SLBr, PQ, Fluent GIF Picker, and [other](https:
 
 > [!NOTE]
 > ### [Fluent GIF Picker (WinUI3)](https://apps.microsoft.com/detail/9N6Q7KZX4NGJ)
-> A GIF picker closely replicating the Windows 11 experience, with added flexibility and support for different GIF providers.
+> A Windows 11-styled GIF picker, with support for different GIF providers (KLIPY, Tenor, GIPHY, etc) and added flexibility.
+>
+> ### 🚀 Get your Tenor GIFs back with Fluent GIF Picker!
+>
+> - Fluent GIF Picker still fully supports Tenor after the June shutdown.
+>
+> - Download today and simply select Tenor in the app settings!
 > 
 > <a href="https://apps.microsoft.com/detail/9n6q7kzx4ngj"><img src="https://get.microsoft.com/images/en-us%20light.svg" alt="Download from Microsoft Store" width="200px"></a>
 > - Creation: 19 Mar 2026
